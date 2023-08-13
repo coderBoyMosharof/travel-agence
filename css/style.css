@@ -14,7 +14,7 @@ body,h1,h2,h3,h4,h5,h6, a,span{
 /* Main Css Start */
 
 .header-section{
-    background:linear-gradient(#00000014,#00000014),url(../img/banner.jpg) bottom center;
+    background:linear-gradient(#00000014,#00000014),url(../img/banner.jpg) center center;
     height: 100vh;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -26,4 +26,16 @@ body,h1,h2,h3,h4,h5,h6, a,span{
 }
 .nav-bootom-content{
     margin-top: 100px;
+}
+
+.sercing-section{
+    background: url(../img/background6-1920x1280.jpg) center center ;
+    background-repeat: no-repeat;
+    height: 60vh;
+    background-size: cover;
+}
+
+.feedback-contents{
+   margin-left: 1%;
+   
 }
